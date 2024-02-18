@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinnarengamani&label=Profile%20views&color=0e75b6&style=flat" alt="chinnarengamani" /> </p>
 
-- 🔭 I’m currently working on [Amazon Product Tracking]
+- 🔭 I’m currently working on Amazon Product Tracking
 
 - 🌱 I’m currently learning **Advanced Java**
 
