@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChinnaRengamani/](https://github.com/ChinnaRengamani/)
 
-- 💬 Ask me about **Core Java, Python, Docker, Linux,**
+- 💬 Ask me about **Python,Core Java, Docker, Linux, SQl**
 
 - 📫 How to reach me **srirenga1812@gmail.com**
 
